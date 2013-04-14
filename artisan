@@ -1,6 +1,6 @@
 _artisan() 
 {
-	COMPREPLY=(`artisan listForBash $COMP_LINE`)
+	COMPREPLY=(`artisan list:forBash $COMP_LINE`)
 	return 0
 }
 complete -F _artisan artisan
