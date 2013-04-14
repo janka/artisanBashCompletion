@@ -11,7 +11,7 @@ class listForBash extends Command {
 	 *
 	 * @var string
 	 */
-	protected $name = 'listForBash';
+	protected $name = 'list:forBash';
 
 	/**
 	 * The console command description.
