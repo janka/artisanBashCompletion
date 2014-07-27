@@ -1,3 +1,8 @@
+This project is abandoned!
+--------------------------
+Please feel free to steal it...
+
+
 artisanBashCompletion
 =====================
 
