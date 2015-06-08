@@ -2,6 +2,7 @@ This project is abandoned!
 --------------------------
 Please feel free to steal it...
 
+Ongoing work seems to be done here: https://github.com/argakiig/artisanBashCompletion
 
 artisanBashCompletion
 =====================
